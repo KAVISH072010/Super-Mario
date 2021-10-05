@@ -1,0 +1,14 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.instruction_image{
+    display: inline-block;
+    width: 45%;
+}
+video{
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
